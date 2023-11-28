@@ -29,16 +29,21 @@ https://sergio-gabriell.github.io/
 ### Clonar o repositório
 
 ```bash 
-git clone https://github.com/seu-usuario/granel-enseada.git 
+git clone https://github.com/Sergio-Gabriell/sergio-gabriell.github.io 
 cd granel-enseada
 Abra o Projeto no Navegador:
 Abra o arquivo index.html no seu navegador favorito.
 
 bash 
  ```
-    xdg-open index.html   # para Linux
-    open index.html      # para macOS
-    start index.html     # para Windows
+
+### Abrir o Projeto no Navegador
+
+Abra o arquivo index.html no seu navegador favorito.
+
+xdg-open index.html   # para Linux
+open index.html      # para macOS
+start index.html     # para Windows
 
 🤝 Contribuindo
 
