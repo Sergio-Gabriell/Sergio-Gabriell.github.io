@@ -1,21 +1,6 @@
 # 🌱 Granel Enseada - Produtos Naturais 🌿
 
 Bem-vindo ao repositório do site Granel Enseada! Este projeto apresenta um site simples para a loja de produtos naturais.
-🚀 Como Começar
-
-### 1. Clonar o repositório
-
-```bash 
-git clone https://github.com/seu-usuario/granel-enseada.git 
-cd granel-enseada
-Abra o Projeto no Navegador:
-Abra o arquivo index.html no seu navegador favorito.
-
-bash 
- ```
-    xdg-open index.html   # para Linux
-    open index.html      # para macOS
-    start index.html     # para Windows
 
 📂 Estrutura do Projeto
 
@@ -40,6 +25,20 @@ bash
 🖥️ Pré-visualização
 
 https://sergio-gabriell.github.io/
+
+### Clonar o repositório
+
+```bash 
+git clone https://github.com/seu-usuario/granel-enseada.git 
+cd granel-enseada
+Abra o Projeto no Navegador:
+Abra o arquivo index.html no seu navegador favorito.
+
+bash 
+ ```
+    xdg-open index.html   # para Linux
+    open index.html      # para macOS
+    start index.html     # para Windows
 
 🤝 Contribuindo
 
