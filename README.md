@@ -45,6 +45,7 @@ xdg-open index.html   # para Linux
 open index.html      # para macOS
 start index.html     # para Windows
 
+
 🤝 Contribuindo
 
 Sinta-se à vontade para contribuir, reportar problemas ou sugerir melhorias.
