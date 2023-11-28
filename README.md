@@ -41,10 +41,11 @@ bash
 
 Abra o arquivo index.html no seu navegador favorito.
 
+ ```
 xdg-open index.html   # para Linux
 open index.html      # para macOS
 start index.html     # para Windows
-
+ ```
 
 🤝 Contribuindo
 
