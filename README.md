@@ -1,6 +1,6 @@
-🌱 Granel Enseada - Produtos Naturais 🌿
+# 🌱 Granel Enseada - Produtos Naturais 🌿
 
-Bem-vindo ao repositório do site Granel Enseada! Este projeto apresenta um site simples para a loja de produtos naturais Granel Enseada.
+Bem-vindo ao repositório do site Granel Enseada! Este projeto apresenta um site simples para a loja de produtos naturais.
 🚀 Como Começar
 
     Clone o Repositório:
